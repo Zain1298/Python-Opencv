@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('sz.jpeg')
+img = cv2.imread('sz.jpg')
 
 cv2.imshow('Output Image',img)
 
